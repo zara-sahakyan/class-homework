@@ -199,7 +199,7 @@ class Student extends Person {
 		this._program = program;
 		this._year = year;
 		this._fee = fee;
-		this._exams = {}; // Object to store exam grades by program
+		this._exams = {}; 
 	}
 	get program() {
 		return this._program;
