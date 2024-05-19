@@ -1,5 +1,3 @@
-/** @format */
-
 /* class Author */
 class Author {
 	constructor(name, email, gender) {
