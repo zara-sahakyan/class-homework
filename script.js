@@ -35,7 +35,7 @@ class Author {
 	}
 }
 
-const author1 = new Author("Hovhannes Tumanyan", "hovo@example.com", "Male");
+const author1 = new Author("Hovhannes Tumanyan", "hov@example.com", "Male");
 console.log(author1.toString());
 
 /* class Book */
